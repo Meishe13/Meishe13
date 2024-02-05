@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Meishe
 #### the last codebender
-![the last codebender]((![github](/images/icon.png)))
+![the last codebender]
+
 
 I am a software engineering student.
 
